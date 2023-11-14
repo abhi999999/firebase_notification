@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "775342838988",
+    "project_id": "pushauthentication9898",
+    "storage_bucket": "pushauthentication9898.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775342838988:android:06f455913724a34cb2de69",
+        "android_client_info": {
+          "package_name": "com.example.firebase_notification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4ZTTbtlfDYupShk7Mt6u7b8UiIhtCV6Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
